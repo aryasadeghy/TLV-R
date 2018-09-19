@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>view-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="TRV:L" transform="translate(-153.000000, -1447.000000)">
+            <g id="view-icon" transform="translate(153.000000, 1447.000000)">
+                <rect id="Rectangle-3-Copy-6" fill="#39C56A" x="0" y="0" width="52" height="52" rx="26"></rect>
+                <text id="eye---FontAwesome" font-family="FontAwesome" font-size="20" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="16" y="35"></tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

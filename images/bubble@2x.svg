@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="102px" viewBox="0 0 300 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L300,0 L300,81.8272981 L181.901264,81.8272981 L167.887158,102 L154.566559,81.8272981 L12.195122,81.8272981 L0,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="300" height="102" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="3">
+        <g id="TRV:L" transform="translate(-377.000000, -1298.000000)" fill="#FFFFFF" stroke="#E5DEDA" stroke-width="4">
+            <g id="Group-6" transform="translate(377.000000, 1298.000000)">
+                <use id="Rectangle-2" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
